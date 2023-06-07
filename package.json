@@ -4,7 +4,8 @@
   "description": "Turrbo repo with react and nestjs",
   "main": "index.js",
   "scripts": {
-    "dev": "turbo dev"
+    "dev": "turbo dev",
+    "build": "turbo build"
   },
   "keywords": [],
   "author": "",
